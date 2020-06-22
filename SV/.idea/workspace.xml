@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b00cff39-e84d-4ef6-b7e6-17d1e6ecc8e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sudoku.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sudoku/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sudoku/Validation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sudoku/ValidationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Yatzy/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Yatzy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EFN/src/main/java/com/fibonacci/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EFN/src/main/java/com/fibonacci/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Yatzy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Yatzy/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,19 +21,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sudoku/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sudoku/Validation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="321">
-              <caret line="38" column="33" lean-forward="true" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+              <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/sudoku/ValidationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+            <state relative-caret-position="270">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,7 +78,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="387" />
     <option name="y" value="23" />
     <option name="width" value="1066" />
@@ -158,6 +142,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sudoku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SV" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sudoku" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -258,17 +250,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592811074070</updated>
-      <workItem from="1592811075587" duration="2313000" />
+      <workItem from="1592811075587" duration="2988000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ValidationTest - 2020.06.22 at 10h 43m 59s.xml">
-      <configuration name="ValidationTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ValidationTest - 2020.06.22 at 10h 49m 20s.xml">
-      <configuration name="ValidationTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ValidationTest_validateSolution - 2020.06.22 at 10h 49m 37s.xml">
       <configuration name="ValidationTest.validateSolution" configurationId="JUnit" />
     </history-entry>
@@ -293,12 +279,18 @@
     <history-entry file="ValidationTest - 2020.06.22 at 11h 09m 57s.xml">
       <configuration name="ValidationTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ValidationTest - 2020.06.22 at 11h 10m 13s.xml">
+      <configuration name="ValidationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ValidationTest - 2020.06.22 at 11h 10m 25s.xml">
+      <configuration name="ValidationTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2313000" />
+    <option name="totallyTimeSpent" value="2988000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="387" y="23" width="1066" height="823" extended-state="0" />
+    <frame x="387" y="23" width="1066" height="823" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -306,7 +298,7 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.30086207" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30078125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -347,7 +339,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sudoku/Validation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="321">
-          <caret line="38" column="33" lean-forward="true" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -356,8 +348,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/sudoku/ValidationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        <state relative-caret-position="270">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
